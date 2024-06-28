@@ -1,0 +1,43 @@
+.hidden {
+  display: none;
+}
+
+h1 {
+  font-size: 400px;
+  padding: 10px;
+  color: white !important;
+  margin: auto;
+}
+
+.titulo {
+  display: flex;
+  background: blue;
+  max-width: 100%;
+}
+
+.titulo img {
+  width: 8%;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.filtro-tarefa {
+  width: 50% !important;
+  margin-left: 25%;
+}
+
+.link_continuar {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  background: blue;
+  text-align: center;
+  margin-top: 20px;
+  padding: 8px;
+  color: white;
+  font-size: 0.8rem;
+}
